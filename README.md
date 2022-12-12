@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soysauceshark
 - 👀 I’m interested in knife-sharpening, braiding, ducks, sharks, running, baking, reading, and of course, coding. 
-- 🌱 I’m currently learning CS50 :D 
-- 💞️ I’m looking to collaborate on nothing at the moment, my skillz are not that great
+- 🌱 I’m currently learning C++ in college :)  
+- 💞️ I’m looking to collaborate on something for first timers as I've never contributed before. 
 - 📫 How to reach me: sharlenechen7@gmail.com 
 
 <!---
