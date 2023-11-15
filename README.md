@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @soysauceshark
-- 👀 I’m interested in knife-sharpening, braiding, ducks, sharks, running, baking, reading, and of course, coding. 
-- 🌱 I’m currently learning C++ in college :)  
+- 👋 Hi, I’m Sharlene!
+- 👀 I’m interested in linguistics, sharks, crochet, matcha, running, baking, reading, and of course, coding. 
+- 🌱 I’m currently learning C++ in college and trying to self-learn full-stack development :)  
 - 💞️ I’m looking to collaborate on something for first timers as I've never contributed before. 
 - 📫 How to reach me: sharlenechen7@gmail.com 
 
